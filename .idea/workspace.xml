@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f4968ec8-889b-4f19-875c-ab569326d453" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress-add_metabox/add_metabox.php" />
-    </list>
+    <list default="true" id="f4968ec8-889b-4f19-875c-ab569326d453" name="Default" comment="" />
     <ignored path="git.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
