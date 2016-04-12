@@ -9,14 +9,10 @@
 
 function add_the_collest_script_ever(){ ?>
 	<script>
-	$(document).ready(function() {
-	$("body").on("contextmenu",function(e){
-	return false;
-	}); 
-	}); 
+		alert( 'a jednak działa!');
 	</script>
 
-<?php }  ?>
+<?php }  
 
 add_action('wp_enqueue_scripts', 'add_the_collest_script_ever');
 
